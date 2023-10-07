@@ -2067,6 +2067,11 @@ a:hover.back-to-top {
 	}
 	/* end of details */
 
+	/*Contact*/
+	.contacto{
+		resize: none;
+	}
+
 
 	/* Pricing */
 	.cards-2 .card {
