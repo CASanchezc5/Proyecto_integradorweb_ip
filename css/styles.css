@@ -2067,10 +2067,7 @@ a:hover.back-to-top {
 	}
 	/* end of details */
 
-	/*Contact*/
-	.contacto{
-		resize: none;
-	}
+	
 
 
 	/* Pricing */
@@ -2149,3 +2146,8 @@ a:hover.back-to-top {
 	/* end of extra pages */
 }
 /* end of min-width width 1200px */
+
+/*Contact*/
+.contacto{
+	resize: none;
+}
