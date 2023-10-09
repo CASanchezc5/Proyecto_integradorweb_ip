@@ -1614,6 +1614,11 @@ a:hover.back-to-top {
 	text-align: left;
 }
 
+/*Contact*/
+.contacto{
+	resize: none;
+}
+
 
 /*****************************/
 /*     19. Media Queries     */
@@ -2147,7 +2152,3 @@ a:hover.back-to-top {
 }
 /* end of min-width width 1200px */
 
-/*Contact*/
-.contacto{
-	resize: none;
-}
