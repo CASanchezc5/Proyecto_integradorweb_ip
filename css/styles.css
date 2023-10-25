@@ -1380,12 +1380,12 @@ input[type='checkbox'] {
 }
 
 .form .fa-stack .fa-stack-2x {
-	color: #5f4dee;
+	color:  #2E9AFE;
 	transition: all 0.2s ease;
 }
 
 .form .fa-stack:hover .fa-stack-1x {
-	color: #5f4dee;
+	color: #2E9AFE;
 }
 
 .form .fa-stack:hover .fa-stack-2x {
